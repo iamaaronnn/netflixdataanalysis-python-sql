@@ -5,9 +5,8 @@ This project explores and analyzes a dataset of Netflix titles to uncover busine
 
 ## 🔧 Tools & Technologies
 - **Python** (Pandas, NumPy)
-- **SQL** (MySQL / SQLite / PostgreSQL — as applicable)
+- **SQL** (MySQL)
 - **Power BI**
-- **Jupyter Notebook / .py scripts**
 
 ## 📊 Project Highlights
 - **Data Cleaning & Preparation**: Cleaned and processed an 8,808-row Netflix dataset using Python and Pandas to ensure accuracy and consistency.
